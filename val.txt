@@ -1,0 +1,126 @@
+dataset/BZNSYP/Wave/008067.wav|0|p⁼iɛ↑k⁼ən→wo↓↑ s`wo→xwa↓, ɹ`ɑŋ↓ wo↓↑ i↑k⁼ə↓ ɹ`ən↑ t⁼aɪ↓xweɪ↓əɹ`!
+dataset/BZNSYP/Wave/006771.wav|0|uɑŋ↑tʃʰiŋ→ɥ↓↑ p⁼i↓↑tʃ⁼iɑʊ↓ tʃ⁼jɛn↓ts`⁼uɑŋ↓, t⁼a↓xoʊ↓↑ i→s`əŋ→, i→ʃja↓ p⁼a↓↑ nan↑ts⁼ɹ ən↓ t⁼ɑʊ↓ ts⁼aɪ↓ t⁼i↓.
+dataset/BZNSYP/Wave/006840.wav|0|li↓↑mjɛn↓ t⁼ə“ iŋ→xʊŋ↑” xən↓↑ s`waɪ↓tʃʰi↓, t⁼a↓ la↑ la↑ t⁼ə, xən↓↑ s`waɪ↓ts`⁼ɹ`↑.
+dataset/BZNSYP/Wave/009845.wav|0|nwan↓↑ nwan↓↑ k⁼weɪ↓ʃja↓ lə, wo↓↑ ts⁼aɪ↓iɛ↓↑ p⁼u↓ fan↓tsʰwo↓u↓ lə, ma→ma→ ni↓↑ k⁼an↓↑tʃ⁼in↓↑ tʃʰɥ↓ i→ɥæn↓ p⁼a.
+dataset/BZNSYP/Wave/008704.wav|0|s`weɪ↑ iɑʊ↓ p⁼u↓ ɹ`ən↓s`ɹ`↑ ni↓↑.
+dataset/BZNSYP/Wave/003692.wav|0|ts`ʰu→pʰin↓↑ fɑŋ→ iɛ↓↑ p⁼iɑʊ↓↑s`ɹ`↓ ts`⁼ɹ`↓↑iɑʊ↓ t⁼jɛn↓iŋ↓↑pʰiɑʊ↓fɑŋ↑ k⁼eɪ↓↑li↓ tʃ⁼joʊ↓ pʰaɪ→“ tʃʰiɛ↓tʰiŋ→ san→”.
+dataset/BZNSYP/Wave/009915.wav|0|iɛ↓↑tʃ⁼joʊ↓s`ɹ`↓s`wo→ tʃ⁼in→wan↓↑ ts`ʰəŋ↑t⁼u→ s`ɹ`↓min↑ tʃ⁼i↑joʊ↓↑ kʰə↓↑nəŋ↑ ts⁼aɪ↓tsʰɹ↓ kʰan↓t⁼ɑʊ↓ pʰiɑʊ→ʃɥɛ↓↑.
+dataset/BZNSYP/Wave/009724.wav|0|i→miŋ↑ nɥ↓↑s`ɹ`↓ kʰu→ xɑʊ↑ ts`⁼ə p⁼eɪ↓ ʃiɑʊ↓↑ɥɛ↓ t⁼əŋ↓↑ ɹ`ən↑ ts`ʰan→fu↑ts`⁼ə li↑kʰaɪ→.
+dataset/BZNSYP/Wave/001835.wav|0|tʃʰɥ↓ xaɪ↓↑p⁼jɛn→ ts⁼oʊ↓↑ts⁼oʊ↓↑, ts`ʰweɪ→ ts`ʰweɪ→ xaɪ↓↑fəŋ→.
+dataset/BZNSYP/Wave/009047.wav|0|p⁼i→ts⁼ə↓ t⁼ə xɑŋ↓t⁼ɑʊ↓ liɑŋ↓↑pʰɑŋ↑, lin↑li↓ ts`⁼ə ʃiɑʊ↓↑s`oʊ↓↑ k⁼ʊŋ→ts⁼wo→fɑŋ→ t⁼ə ts`⁼ɑʊ→pʰaɪ↑.
+dataset/BZNSYP/Wave/006541.wav|0|wo↓↑mən iɛ↓↑ tsʰəŋ↑tʃ⁼iŋ→ ts⁼aɪ↓ u→li↓↑ xan→s`weɪ↓ t⁼ə s`ɹ`↑xoʊ↓ p⁼eɪ↓ s`əŋ→in→ ʃja↓ʃiŋ↓↑.
+dataset/BZNSYP/Wave/007882.wav|0|s`ɹ`↓↑jʊŋ↓lɥ↓ ts⁼weɪ↓t⁼i→ t⁼ə s`ɹ`↓ fən→lan↑ xə↑ nwo↑weɪ→.
+dataset/BZNSYP/Wave/004065.wav|0|t⁼weɪ↓ɥ↑“ ts`⁼uɑŋ↓ɥæn↑” k⁼weɪ↓k⁼wan→, k⁼əŋ↓↑ɥæn↑s`əŋ→ s`wo→ əɹ`↑ts⁼ɹ xaɪ↑s`ɹ`↓ joʊ↓↑t⁼jɛn↓↑ tʃ⁼i→t⁼ʊŋ↓ xə↑ ʃiŋ→fən↓.
+dataset/BZNSYP/Wave/000390.wav|0|s`ɑŋ↓xaɪ↓↑ tʃ⁼iŋ↓an→tʃʰɥ→“ iɑʊ→ iɑʊ→ iɑʊ→ u↓↑” xwo↓↑ts⁼aɪ→ tʃ⁼joʊ↓s`ɹ`↓ joʊ↑ xan↓xwo↓↑ in↓↑tʃʰi↓↑ t⁼ə.
+dataset/BZNSYP/Wave/005907.wav|0|k⁼aɪ→ tʃ⁼i↓xwa↓ iɑʊ→tʃʰjoʊ↑, ɹ`ən↑tsʰaɪ↑ fɑŋ↑ tʃ⁼i→p⁼ən↓↑ man↓↑ts⁼u↑ lin→p⁼ɑʊ→ ɹ`u↓ts`⁼u↓ iɑʊ→tʃʰjoʊ↑.
+dataset/BZNSYP/Wave/001149.wav|0|ts`ʰuɑŋ↑ts`⁼ɑʊ↓ t⁼i↓↑ts⁼wo↓ mu↓k⁼wən↓ tʃ⁼iɑʊ↓ tsʰu→, jʊŋ↓ swən↓↑tʰoʊ↑ mɑʊ↓↑jɛn↓↑ tʃ⁼iɛ→ xə↑ts`ʰəŋ↑ ts`ʰɑŋ↑fɑŋ→ʃiŋ↑ mu↓kʰuɑŋ→.
+dataset/BZNSYP/Wave/007480.wav|0|tʃ⁼i↓ts`⁼ə↓↑ ts⁼oʊ↓↑tʃ⁼in↓ i→tʃ⁼ja→ tʃʰi↓ts`ʰə→ k⁼aɪ↓↑ts`⁼uɑŋ→ ts⁼wo→fɑŋ→.
+dataset/BZNSYP/Wave/004358.wav|0|t⁼weɪ↓ ni↓↑ t⁼ə tʃʰjɛn↑ɹ`ən↓ k⁼əŋ↓ k⁼an↓↑ʃiŋ↓tʃʰɥ↓ iɛ↑.
+dataset/BZNSYP/Wave/001839.wav|0|kʰwan→ts`ʰɑŋ↓↑miŋ↑liɑŋ↓ t⁼ə joʊ↑jʊŋ↓↑k⁼wan↓↑ neɪ↓tʃ⁼iŋ↓↑.
+dataset/BZNSYP/Wave/004804.wav|0|weɪ↓laɪ↑ t⁼a↓fəŋ→ ts`⁼u↓↑iɑʊ↓ t⁼weɪ↓ nan↑tʃ⁼iɑŋ→ joʊ↓↑ iŋ↓↑ʃiɑŋ↓↑.
+dataset/BZNSYP/Wave/000655.wav|0|lɥ↓ljoʊ↓↑ t⁼i→ts`ʰweɪ↑, tʃ⁼iɑŋ→s`weɪ↓↑ k⁼əŋ↓↑iɛ↓.
+dataset/BZNSYP/Wave/004915.wav|0|li↓↑ moʊ↓↑ʃi↓ t⁼ʊŋ→u→ts`⁼u→mu↓tʃʰin↓tʃʰi↑ man↓↑ t⁼oʊ→ ts`⁼ən↓ ɹ`ən↑, s`ɹ`↓ k⁼ə↓tʰi↓↑tʃ⁼iŋ→iŋ↑ s`ɑŋ→xu↓.
+dataset/BZNSYP/Wave/001319.wav|0|na↓ joʊ↓ xə↑p⁼i↓ ts⁼aɪ↓ ʃi↓tʃ⁼iɛ↑ s`ɑŋ↓ tʃ⁼joʊ→ts`ʰan↑ nə?
+dataset/BZNSYP/Wave/000542.wav|0|lɥ↓t⁼oʊ↓ ʃi→k⁼wa→ p⁼iŋ→k⁼wən↓əɹ`↑ liɑŋ↑, tʃ⁼iɛ↓↑s`u↓↑ s`oʊ↓↑tʰweɪ→ swan→meɪ↑tʰɑŋ→.
+dataset/BZNSYP/Wave/008314.wav|0|tʰa→mən p⁼u↓ k⁼an→ʃin→, joʊ↓ ʃiɑŋ↓↑ maɪ↓↑tʰʊŋ→ p⁼jɛn→tʃ⁼jɛn↓↑ tsʰan→moʊ↑ ts`ʰa↑tʃʰi↑ t⁼ə tʃʰi→ts⁼ɹ↓↑.
+dataset/BZNSYP/Wave/002237.wav|0|tʃ⁼ja→tʰəŋ↑ p⁼iɑʊ↓↑s`ɹ`↓, ts`⁼ə↓i→ tʃʰiŋ↑p⁼ɑʊ↓ laɪ↑ts⁼ɹ↓ i→weɪ↓ ə↑lwo↑sɹ→ t⁼iɛ↑p⁼ɑʊ↓ɹ`ən↑ɥæn↑.
+dataset/BZNSYP/Wave/001812.wav|0|ts⁼wo↓t⁼i↓tʰiɛ↓↑ k⁼ɑŋ→ʃja↓, i→ts`⁼ɹ`→ tʃ⁼iŋ↓↑tʃʰɥæn↓↑ uɑŋ→uɑŋ→tʃ⁼iɑʊ↓ ts`⁼ə ts`ʰʊŋ→ wo↓↑ pʰu→ k⁼wo↓laɪ↑, tʃ⁼in↓↑tʃ⁼in↓↑ iɑʊ↓↑ts`⁼u↓ wo↓↑ t⁼ə p⁼ɑʊ→.
+dataset/BZNSYP/Wave/005869.wav|0|joʊ↓tʃʰɥæn↓↑ i→njɛn↑ iɑʊ↓ ts`⁼u↓s`ə↓ san→tsʰɹ↓ ɥ↓fɑŋ↑ts`⁼ən→, ts`ʰəŋ↑tʃʰɥæn↓↑ meɪ↓↑njɛn↑ ts`⁼ɹ`↓↑ ʃɥ→iɑʊ↓ ts`⁼u↓s`ə↓ i→tsʰɹ↓!
+dataset/BZNSYP/Wave/006397.wav|0|wo↓↑ i↓ts`⁼ɹ`↑ k⁼ɑʊ↓tʃ⁼iɛ↓ ts⁼ɹ↓tʃ⁼i↓↑ iɑʊ↓ naɪ↓ts`⁼u↓ tʃ⁼i↓mwo↓.
+dataset/BZNSYP/Wave/009784.wav|0|tʰu↑weɪ↓ ts`ʰən↑ k⁼uɑŋ→p⁼iɑʊ→ s`oʊ↓↑ pʰəŋ↓↑ ʃjɛn↓tʃ⁼in→.
+dataset/BZNSYP/Wave/006439.wav|0|wo↓↑ xweɪ↑tʰoʊ↑ uɑŋ↓uɑŋ↓ i↑xaɪ↓↑, tʰa→ sɹ↓xu→ ts⁼aɪ↓ weɪ→ʃiɑʊ↓ ts`⁼ə ʃɥ↓ɥ↓↑.
+dataset/BZNSYP/Wave/008433.wav|0|meɪ↓↑tsʰɹ↓ tʰi↑ts`ʰu→ i↓tʃ⁼jɛn↓ iɛ↓↑ ts⁼ʊŋ↓↑s`ɹ`↓ ʃjɛn→s`wo→, wo↓↑ ts`⁼ɹ`↓↑s`ɹ`↓ s`wo→ s`wo→, tʰiŋ→ p⁼u↓ tʰiŋ→ joʊ↑ ni↓↑mən tʃ⁼ɥɛ↑t⁼iŋ↓.
+dataset/BZNSYP/Wave/006166.wav|0|xaɪ↓↑k⁼wan→ts⁼ʊŋ↓↑s`u↓↑ tʃ⁼iɑŋ→ jɛn↑ts`ʰa↑ tsʰɹ↓↑leɪ↓ weɪ↑k⁼weɪ→ ʃjɛn↓ʃiɑŋ↓.
+dataset/BZNSYP/Wave/008709.wav|0|p⁼a↓↑ xu↑lwo↑p⁼wo tʃ⁼iɑʊ→ ts`ʰu→laɪ↑!
+dataset/BZNSYP/Wave/003446.wav|0|ni↓↑ i↓↑xoʊ↓ iɑʊ↓ ʃiŋ↓fu↑, ts`⁼ɑʊ↓↑k⁼ə↓ p⁼i↓↑ wo↓↑ ɹ`wo↓ t⁼ə ɹ`ən↑, ts`⁼ə↓iɑŋ↓ wo↓↑ iɑʊ↓s`ɹ`↓ tʃʰɥ↓ tʃʰiɑŋ↓↑xwən→ xaɪ↑ nəŋ↑ tʃʰiɑŋ↓↑ k⁼wo↓ tʰa→.
+dataset/BZNSYP/Wave/007670.wav|0|əɹ`↓s`oʊ↓↑fɑŋ↑ ts`⁼ʊŋ→tʃ⁼iɛ↓ jɛn↑ts`⁼ʊŋ↓ kʰweɪ→swən↓↑, s`ən→ts`⁼ən↓ loʊ↑s`ɹ`↓ ts⁼aɪ↓ ts`⁼ə↓lwən↑ ʃja↓xwa↑ ts`⁼ʊŋ→ ts`ʰu↓↑ɥ↑ ts⁼ən↓↑iɑŋ↓ t⁼ə ts`⁼uɑŋ↓tʰaɪ↓?
+dataset/BZNSYP/Wave/007000.wav|0|k⁼aɪ→ t⁼i↓kʰwaɪ↓ ts`ʰu→ɹ`ɑŋ↓ mjɛn↓tʃ⁼i→ p⁼a→tʃʰjɛn→ liŋ↑ u↓↑s`ɹ`↑p⁼a→ pʰiŋ↑, ɹ`ʊŋ↑tʃ⁼i→lɥ↓ əɹ`↓t⁼jɛn↓↑u↓↑.
+dataset/BZNSYP/Wave/007415.wav|0|t⁼wan↓↑ʃjɛn↓ oʊ→ɥæn↑ liɑʊ↓ ɹ`əŋ↑ tʃ⁼iɑŋ→ ts`ʰu↓↑ɥ↑ ɹ`wo↓s`ɹ`↓, ʃja↓fɑŋ→ ts`⁼ɹ`→ts`ʰəŋ→ i↓t⁼jɛn↓↑ əɹ`↓p⁼a→ ljoʊ↓liŋ↑.
+dataset/BZNSYP/Wave/007132.wav|0|lwo↑tʰjɛn→ts`ʰəŋ↑ mi↓mi↓ p⁼eɪ↓ wa→t⁼iɑʊ↓ lə, tʃ⁼iɑʊ↓, ni↓↑mən p⁼u↓ kʰə↓↑i↓↑ k⁼ən→ts⁼ʊŋ→ wo↓↑ t⁼ə!
+dataset/BZNSYP/Wave/006924.wav|0|xu↑li↑ s`wo→, xoʊ↑ts⁼, pʰiŋ↑ ni↓↑ ts`⁼ə↓t⁼jɛn↓↑ ʃiɑʊ↓↑ʃiɑʊ↓↑t⁼ə p⁼ən↓↑s`ɹ`↓, ni↓↑ ts`⁼ə↓ p⁼ən↓t⁼an↓ xaɪ↑ ʃiɑŋ↓↑ ts⁼wo↓ s`oʊ↓ts`⁼ʊŋ→ts`⁼ɹ`→uɑŋ↑ ma?
+dataset/BZNSYP/Wave/002847.wav|0|ʃiɑŋ→ʃja↓ tʃ⁼in↓laɪ↑ iɛ↓↑ p⁼u↓ts⁼aɪ↓ s`ɹ`↑ʃiŋ→ tʰiɛ→ xwa→xwa→lɥ↓lɥ↓ t⁼ə njɛn↑xwa↓ lə.
+dataset/BZNSYP/Wave/008883.wav|0|ts⁼wən→miŋ↓, wo↓↑ kʰə↓↑i↓↑ pʰeɪ↑ ni↓↑ i↓tʃʰi↓↑ tʃʰɥ↓.
+dataset/BZNSYP/Wave/000253.wav|0|tʰa→ t⁼ɑŋ→tʃ⁼i↑ k⁼an→k⁼a↓ jɛn↓↑ts⁼weɪ↓↑ tʃ⁼jɛn→ niŋ↑ tʰoʊ↑.
+dataset/BZNSYP/Wave/001274.wav|0|əɹ`↑ ts`⁼ə↓ʃiɛ→ tʃ⁼ja↓s`ɹ`↓↑ɥæn↑ t⁼oʊ→ feɪ→ ts`ʰə→ts`⁼u↓↑, tʃʰɥæn↑p⁼u↓ joʊ↑“ ts`⁼wan→iɛ↓ ts`ʰuɑŋ↓↑k⁼ɑŋ↓↑ sɹ→tʃ⁼i→” laɪ↑ wan↑ts`ʰəŋ↑.
+dataset/BZNSYP/Wave/006574.wav|0|ɹ`u↑k⁼wo↓↑ ɹ`ən↑min↑ li↓liɑŋ↓ t⁼ɑŋ↓↑ tsʰan→ɥ↓ u↓↑p⁼i↓ t⁼ə ts`⁼əŋ↓tʃ⁼ɥ↓tʃʰɥɛ↓ts⁼ɑʊ↑, ɹ`ən↑min↑ li↓liɑŋ↓ t⁼ɑŋ↓↑ tʃ⁼iɑŋ→ p⁼eɪ↓ tʃ⁼iɛ↓↑san↓.
+dataset/BZNSYP/Wave/002062.wav|0|xɑʊ↓↑i→pʰaɪ↓ ʃiɑʊ→s`u→ tsʰɑŋ→liɑŋ↑ t⁼ə tʃ⁼iŋ↓↑sə↓.
+dataset/BZNSYP/Wave/003671.wav|0|uɑŋ↑tʃʰɥæn↑an→ ts`⁼əŋ↓tʃʰiɑʊ↓↑ iɛ↓↑ ɹ`u↓ts`⁼u↓ k⁼aɪ→ tʃ⁼joʊ↓↑t⁼jɛn↓, liɑŋ↓↑ɹ`ən↑ tʃʰɥɛ↓ meɪ↑ s`ɹ`↑tʃ⁼jɛn→ pʰəŋ↓mjɛn↓.
+dataset/BZNSYP/Wave/000885.wav|0|xuɑŋ↑tʰiŋ↑ k⁼uɑŋ↓↑ts`ʰɑŋ↓↑ k⁼wo↓tʃʰɥ↓ li↓s`ɹ`↓↑ ɥ↓↑“ lan↓weɪ↓↑” k⁼wan→ljɛn↑ ts⁼aɪ↓ i↓tʃʰi↓↑.
+dataset/BZNSYP/Wave/007155.wav|0|tʃ⁼ɥ↓ʃi→, xwən→li↓↑ xaɪ↑ tʃʰiŋ↓↑laɪ↑ lwo↓tʰwo↑, t⁼a↓ʃiɑŋ↓ ɥ↓↑ ma↓↑“ ts`⁼u↓ʃiŋ↓”.
+dataset/BZNSYP/Wave/003534.wav|0|wo↓↑liɑŋ↓ lə i→ʃja↓ tʰi↓↑wən→, xɑʊ↓↑ʃiɑŋ↓ fa→s`ɑʊ→.
+dataset/BZNSYP/Wave/009044.wav|0|joʊ↓↑ɹ`ən↑ fa→ts`ʰu→ ts`⁼ə↓iɑŋ↓ t⁼ə i↑wən↓, fan↓t⁼u↑, ts`⁼ɹ`↓ts⁼ɑʊ↓ tʃ⁼ja↓↑iɑʊ↓, meɪ↑joʊ↓↑ ɹ`ən↑k⁼wan↓↑ ma?
+dataset/BZNSYP/Wave/006343.wav|0|s`ɹ`↑tʃ⁼i↓s`ɑŋ↓ ni↓↑ iɑʊ↓ maɪ↓ xaɪ↑iɑʊ↓ maɪ↓ k⁼əŋ↓ pʰjɛn↑i t⁼ə tʃ⁼ja↓k⁼ə↑?
+dataset/BZNSYP/Wave/006225.wav|0|tʰi↑p⁼a↑ i↑k⁼ə↓ k⁼an↓p⁼u↓, s`u↓li↓ i↑mjɛn↓ tʃʰi↑ts`⁼ɹ`↓.
+dataset/BZNSYP/Wave/003634.wav|0|k⁼əŋ↓ joʊ↓↑ i→ʃiɛ→ k⁼u↓kʰə↓ weɪ↓ fu→tʃʰi→lja↓↑ ts`⁼ɑʊ↓↑ ʃin→ t⁼jɛn↓pʰu↓ t⁼ə s`ɹ`↓ tsʰɑʊ→tʃʰi↓↑ ʃin→laɪ↑.
+dataset/BZNSYP/Wave/007899.wav|0|tʰa→ p⁼eɪ↓ ʃɥ↓↑t⁼wo→ ɹ`ən↑ s`ɹ`↓weɪ↓ weɪ→ɹ`wan↓↑ swo↓↑ tsʰəŋ↑ tʰweɪ→ts`ʰu→ t⁼ə ts⁼weɪ↓xɑʊ↓↑ t⁼ə ljoʊ↑lan↓↑tʃʰi↓.
+dataset/BZNSYP/Wave/002303.wav|0|ts⁼aɪ↓ lu↓jʊŋ↓ k⁼an↓p⁼u↓ s`ɹ`↑, iɑʊ↓ an↓ts`⁼ɑʊ↓ t⁼ə↑tsʰaɪ↑tʃ⁼jɛn→p⁼eɪ↓ t⁼ə p⁼iɑʊ→ts`⁼wən↓↑ ts⁼ə↑joʊ→lu↓jʊŋ↓.
+dataset/BZNSYP/Wave/005094.wav|0|ʃɥn↓ljɛn↓ t⁼ə ts⁼weɪ↓xoʊ↓, swo↓↑joʊ↓↑ min↑p⁼iŋ→ i↓tʃʰi↓↑ kʰɑŋ↑ts`⁼ə p⁼u↓tʃʰiɑŋ→ tʃʰɥ↓ ljɛn↓ʃi↑ s`ə↓tʃ⁼i→.
+dataset/BZNSYP/Wave/005597.wav|0|tsʰɑʊ↓↑məŋ↓↑ fu↓tʃʰin→tʃ⁼iɛ↑ ɹ`əŋ↑ iɑʊ↓ kʰaɪ→k⁼ʊŋ→, ts`⁼ɹ`↓↑xɑʊ↓↑ tʰi↑tʃʰjɛn↑ i→tʰjɛn→ tʃʰiŋ↓ts`⁼u↓.
+dataset/BZNSYP/Wave/001086.wav|0|ʃi→iɛ↑na↓ t⁼ə aɪ↓tʃʰiŋ↑ t⁼ɑʊ↓lu↓ iɛ↓↑ xən↓↑ ts`⁼əŋ→ts`⁼a↑.
+dataset/BZNSYP/Wave/001832.wav|0|i→s`ən↓↑ ʃɥæn→pʰan↓ xoʊ↓, s`ɑŋ↓joʊ↓↑ tʃʰin↓ tʰi↑ts`ʰu→ s`ɑŋ↓su↓.
+dataset/BZNSYP/Wave/006488.wav|0|t⁼ʊŋ↓↑i→ tʃ⁼in↓mən↑ tʃ⁼joʊ↓ iɑʊ↓tʃʰjɛn↑, t⁼an↓ tʃʰi↑ k⁼ʊŋ→k⁼ʊŋ→ s`wo→ s`oʊ↓↑li↓↑ meɪ↑ tʃʰjɛn↑.
+dataset/BZNSYP/Wave/009872.wav|0|tsʰɑʊ↑ xʊŋ↑liɑŋ↓ s`wo→, xaɪ↑joʊ↓↑ tʃ⁼i↓↑k⁼ə↓ kʰʊŋ→ts`⁼ə…… meɪ↑k⁼wan→ʃi↓, ɹ`ɑŋ↓ wo↓↑ ts`ʰɑʊ→ts`ʰɑʊ→!
+dataset/BZNSYP/Wave/006814.wav|0|ɹ`an↑xoʊ↓ p⁼a↓s`wo→, tʃ⁼joʊ↓s`ɹ`↓ wo↓↑ meɪ↑ ts`⁼əŋ→jɛn↓↑.
+dataset/BZNSYP/Wave/004428.wav|0|tʰaɪ↓iɑŋ↑ ts`⁼ɑʊ↓ ts⁼aɪ↓ tʃʰiɑŋ↑tʃ⁼iɑʊ↓↑ t⁼ə tʃ⁼i→ʃɥɛ↓↑ s`ɑŋ↓, s`aɪ↓xwa↓ lə t⁼ə ʃɥɛ↓↑s`weɪ↓↑ s`wən↓ts`⁼ə ʃiɑʊ↓↑k⁼oʊ→ ljoʊ↑ʃiɑŋ↓ ɥæn↓ waɪ↓.
+dataset/BZNSYP/Wave/003354.wav|0|ts`⁼ɹ`↓↑joʊ↓↑ uɑŋ↑ʃiɑʊ↓↑pʰiŋ↑ tʃ⁼ja↓s`ɹ`↓↑ tʃ⁼iŋ↓↑ts`ʰə→, ɹ`u↑ i→ts`⁼ɑŋ→ k⁼ɑʊ→iɑʊ↓ tʰiɛ→ ts⁼aɪ↓ san→liŋ↑ ɥɛ↓iɛ↓↑ts`ʰə→ xoʊ↓mjɛn↓.
+dataset/BZNSYP/Wave/009160.wav|0|in→weɪ↓ xʊŋ↑ fan→tʃʰiɛ↑ waɪ↓mjɛn↓ s`ɹ`↓ xʊŋ↑ t⁼ə, ɹ`an↑xoʊ↓ tʃʰi↑s`ɹ`↑ fan→tʃʰiɛ↑ li↓↑mjɛn↓ iɛ↓↑ s`ɹ`↓ xʊŋ↑ t⁼ə.
+dataset/BZNSYP/Wave/008546.wav|0|ts`ʰɹ`→, ts`ʰɹ`→, tʃ⁼joʊ↓ ts`⁼ɹ`→t⁼ɑʊ↓ ts`ʰɹ`→, ts`⁼wan↓ t⁼wo→s`ɑʊ↓↑ tʃʰjɛn↑k⁼oʊ↓ ni↓↑ ts`ʰɹ`→ t⁼ə?
+dataset/BZNSYP/Wave/005079.wav|0|li↓↑ʃjɛn→s`əŋ→ weɪ↓tsʰɹ↓↑ feɪ→ts`ʰɑŋ↑ kʰu↓↑nɑʊ↓↑.
+dataset/BZNSYP/Wave/001199.wav|0|nan↑k⁼waɪ↓ s`wo→ tʰɑʊ↑p⁼ɑʊ↓↑ iɑŋ↓↑xwo↑ lə kʰwaɪ↓t⁼i↓ iɛ↓.
+dataset/BZNSYP/Wave/003096.wav|0|tʰiɛ↓↑tʃ⁼iɑŋ↓ ts⁼aɪ↓ k⁼eɪ↓↑ ts`⁼an↓ma↓↑ t⁼iŋ→ ts`⁼ɑŋ↓↑s`ɹ`↑, in→ tʃʰɥɛ→s`ɑʊ↓↑ tʃ⁼i↓↑kʰə→ t⁼iŋ→ts⁼, joʊ↓↑ i→ts`⁼ɹ`→ ma↓↑ts`⁼ɑŋ↓↑ meɪ↑joʊ↓↑ t⁼iŋ→lɑʊ↑.
+dataset/BZNSYP/Wave/005621.wav|0|ts⁼aɪ↓ tʰəŋ↑ts`⁼oʊ→s`ɹ`↓ tsʰaɪ↑mɑʊ↓ i→ɥæn↓ tʰi↓↑tʃ⁼jɛn↓↑ ts`⁼an↓, t⁼wo→s`u↓ nan↑s`əŋ→ p⁼iŋ↓ meɪ↑joʊ↓↑ ts⁼ɑʊ→ɥ↓“ lwo↓↑tʃ⁼jɛn↓↑”.
+dataset/BZNSYP/Wave/000473.wav|0|weɪ↓tʃʰiŋ↓“ njɛn↑li↓”, k⁼aɪ→ tsʰwən→weɪ↓↑ tʃʰiŋ↓↑laɪ↑ tʰwo→i→u↓↑niɑŋ↑ ts`⁼u↓ʃiŋ↓.
+dataset/BZNSYP/Wave/008706.wav|0|ni↓↑ ts`⁼ə↓ s`ɹ`↓ p⁼u↓ aɪ↓ wo↓↑ lə?
+dataset/BZNSYP/Wave/000447.wav|0|lɑʊ↓↑ɹ`ən↑ t⁼weɪ↓ əɹ`↑ts⁼ɹ njɛn→xwa→ɹ`ə↓↑tsʰɑʊ↓↑ iɛ↓↑ ts⁼ɑʊ↓↑i↓↑ s`ən→u↓tʰʊŋ↓tʃ⁼ɥɛ↑, i→kʰoʊ↓↑ t⁼a→iŋ↓.
+dataset/BZNSYP/Wave/003693.wav|0|ts`⁼ɹ`↓tsʰɹ↓↑, uɑŋ↓↑s`ɑŋ↓ ts`⁼weɪ→tʰɑʊ↑ ɹ`ən↑ɥæn↑ lan↑jɛn↑tʃʰiɑŋ↑ t⁼ə s`ən→fən↓ ts`ʰə↓t⁼i↓↑ p⁼eɪ↓“ pʰiɑʊ↓↑p⁼aɪ↑”.
+dataset/BZNSYP/Wave/005812.wav|0|tʰa→mən tʰi↓↑tʃ⁼i→ ɹ`u↑ ʃiɑʊ↓↑mɑʊ→, t⁼an↓ ts`⁼wa↓↑ts⁼ɹ↓↑ tʃʰɥɛ↓ p⁼i↓↑ mɑʊ→ fəŋ→li↓ ʃɥ↓↑t⁼wo→.
+dataset/BZNSYP/Wave/002504.wav|0|mu↓tʃʰjɛn↑ k⁼ʊŋ→u↓ɥæn↑ iɑŋ↓↑lɑʊ↓↑tʃ⁼in→ ts`⁼ɹ`↑tʃ⁼iɛ→ joʊ↑ tsʰaɪ↑ts`⁼əŋ↓ p⁼wo→fu↓.
+dataset/BZNSYP/Wave/000386.wav|0|t⁼wo↓↑t⁼wo↓↑ p⁼aɪ↑ɥn↑ tʰwo→xweɪ↑ ni↓↑, t⁼jɛn↓↑t⁼jɛn↓↑ kʰu↓↑ɥ↓↑ sa↓↑ fan↑.
+dataset/BZNSYP/Wave/003618.wav|0|kʰa↓↑ma↓↑tʃʰiɑʊ↑ tʃ⁼iŋ→ts`ʰɑŋ↑ xweɪ↓ ts`ʰʊŋ↑fu↓ ts`⁼ə↓ʃiɛ→.
+dataset/BZNSYP/Wave/004324.wav|0|uɑŋ↑tʃʰiɑŋ↑ p⁼jɛn↓ xʊŋ↓↑pʰjɛn↓ ʃiɑʊ↓↑tʃ⁼ɥæn→, ɹ`u↑k⁼wo↓↑ ʃiɑʊ↓↑tʃ⁼ɥæn→ ɥ↓↑ tʰa→ fa→s`əŋ→ k⁼wan→ʃi↓, p⁼jɛn↓ k⁼eɪ↓↑ ʃiɑʊ↓↑tʃ⁼ɥæn→ liŋ↑xwa→tʃʰjɛn↑ jʊŋ↓.
+dataset/BZNSYP/Wave/007465.wav|0|t⁼an↓ts`ʰɹ`↑ ʃjɛn→s`əŋ→ p⁼iŋ↓weɪ↓ t⁼a↓↑ʃiɑʊ→ fu↓ts`ʰwan→ t⁼ə ʃiɑŋ↓↑fa↓↑.
+dataset/BZNSYP/Wave/008721.wav|0|wo↓↑ xən↓↑ ts`⁼u↓i↓ jɛn↑mjɛn↓ t⁼a↑.
+dataset/BZNSYP/Wave/001877.wav|0|tʃ⁼iŋ↓↑ts`⁼ɑŋ↓↑ tsʰweɪ→ swo↓↑əɹ`↓↑ k⁼ɑʊ↓su↓ t⁼ɑŋ→t⁼i↓ meɪ↑tʰi↓↑, tsʰɹ↓↑ʃiɛ↑ t⁼ə ts`ʰɹ`↓↑tsʰwən↓ s`ɹ`↓ nan↑ʃiɛ↑ s`ɹ`↑xɑʊ↓.
+dataset/BZNSYP/Wave/001206.wav|0|ɹ`ɑŋ↓ leɪ↑tʃ⁼ɥn→ pʰwo↓↑k⁼an↓↑ kʰwan→weɪ↓ t⁼ə s`ɹ`↓, jʊŋ→ t⁼wən↓↑ t⁼weɪ↓ ʃiɑʊ↓↑mi↓↑ joʊ↓↑ts`⁼ə i→ts`⁼ʊŋ↓↑“ ts⁼ʊŋ→tʃ⁼iɑʊ↓ p⁼an→t⁼ə ɹ`ə↓tʃʰiŋ↑”.
+dataset/BZNSYP/Wave/006489.wav|0|ma↓↑iŋ→ʃɥɛ↓↑ t⁼ə t⁼jɛn↓xwa↓ weɪ↓ iɑʊ→ u↓↑p⁼a→ san→ əɹ`↓p⁼a→ tʃʰi→tʃʰi→ əɹ`↓sɹ↓ljoʊ↓.
+dataset/BZNSYP/Wave/006288.wav|0|ts⁼aɪ↓ t⁼əŋ↓ ʃin→xwa↑ tʃ⁼iŋ→ts`ʰɑŋ↑ t⁼əŋ→lu↓ t⁼ə“ xu↑lu↑sɹ→ ts`⁼wan→iɛ↓ uɑŋ↓↑ts`⁼an↓” s`ɑŋ↓, t⁼ɑʊ↓njɛn↓ tʰiɛ↓↑ts⁼ɹ↓↑ p⁼u↓t⁼wan↓k⁼əŋ→ʃin→.
+dataset/BZNSYP/Wave/008675.wav|0|k⁼uɑŋ↓↑ʃi→ p⁼ən↓↑t⁼i↓ i↓↑joʊ↓↑ san→sɹ↓tʃ⁼ja→ tʃʰi↓↑iɛ↓ tʃ⁼ɥ↓p⁼eɪ↓ pʰi→liɑŋ↓s`əŋ→ts`ʰan↓↑ mɑŋ↓↑ tsʰɑʊ↓↑swan→ t⁼ə nəŋ↑li↓.
+dataset/BZNSYP/Wave/002626.wav|0|wo↓↑mən tʃ⁼iŋ→ts`ʰɑŋ↑ tʃ⁼iɑŋ↓↑ ts`⁼u→mu↓lɑŋ↓↑ma↓↑fəŋ→, joʊ↓↑ i↑k⁼ə↓ pʰwo→ xən↓↑ t⁼oʊ↓↑, joʊ↓↑ i↑k⁼ə↓ pʰwo→ p⁼i↓↑tʃ⁼iɑʊ↓ an→tʃʰɥæn↑.
+dataset/BZNSYP/Wave/009712.wav|0|ts⁼a↑tʃ⁼iɑʊ→ s`weɪ↓↑t⁼ɑʊ↓ iŋ↓jʊŋ↓ ts⁼ə↑ s`ɹ`↓ tʰi↑k⁼ɑʊ→ s`weɪ↓↑t⁼ɑʊ↓ ts`ʰan↓↑liɑŋ↓ t⁼ə ts⁼weɪ↓tʃ⁼ja→ ʃɥæn↓↑ts⁼ə↑.
+dataset/BZNSYP/Wave/002840.wav|0|na↓ i→tʃ⁼ɥ↓ iŋ→ɥ↓↑ i↑k⁼ə↓ ts`ʰəŋ↑ɥ↓↑ fɑŋ↓↑fu↑ xoʊ↓p⁼jɛn↓ s`ə↓s`a→ ts⁼ɑʊ↑ ts`ʰɹ`↓↑ t⁼ə liɑŋ↓↑tʃ⁼jɛn↓, liŋ↓ɥ↓↑ʃiɑŋ↑ fɑŋ↑p⁼u↓s`əŋ↓fɑŋ↑.
+dataset/BZNSYP/Wave/009895.wav|0|tʃʰi↓↑ts`ʰu→ xə↑ts`ʰəŋ→ miŋ↑ loʊ↓↑ ts`⁼ə i→weɪ↓ nɥ↓↑ʃiŋ↓ joʊ↓↑ɹ`ən↑ t⁼ə k⁼ə→p⁼wo↑ p⁼jɛn→ ts⁼oʊ↓↑ p⁼jɛn→ liɑʊ↑.
+dataset/BZNSYP/Wave/008091.wav|0|p⁼u↑t⁼ɑʊ↓ tsʰɑʊ↓↑ɥæn↑, p⁼u↓ts`⁼ɹ`→ tʃʰi↑ʃjʊŋ↑meɪ↓↑ ts`⁼uɑŋ↓li↓, p⁼u↓ laɪ↑ neɪ↓məŋ↑k⁼u↓↑, p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ tʃʰi↑ ɹ`ɹ`↓ʃin→ɥɛ↓i↓ t⁼ə p⁼jɛn↓xwa↓.
+dataset/BZNSYP/Wave/003070.wav|0|ts`⁼ʊŋ↓t⁼wo→ ʃiɑŋ→tʃʰin→ tsʰu↓jʊŋ→ k⁼wan→s`ɑŋ↓↑, tʃ⁼iŋ→tʰan↓ ts`⁼ɹ`→ ɥ↑ tʃʰi→t⁼aɪ↓ s`ɹ`↓s`weɪ↓↑ ts`ʰəŋ↑k⁼ʊŋ→.
+dataset/BZNSYP/Wave/004947.wav|0|tʃ⁼i↓mwo↓s`ən→kʰə→ i→ts`⁼oʊ→ tʃʰjɛn↑ fa→t⁼ʊŋ↓ tʃ⁼ɥɛ↑s`ɹ`↑kʰɑŋ↓i↓, ts`ʰəŋ→ ts⁼ɑʊ→t⁼ɑʊ↓ tʃ⁼jɛn→ɥ↓ nɥɛ↓t⁼aɪ↓.
+dataset/BZNSYP/Wave/006783.wav|0|wo↓↑ t⁼ə s`u↓tʃ⁼ɥ↓ʃjɛn↓ ts`⁼ə↓mə t⁼iɑʊ↓↑ wo↓↑ ts⁼ən↓↑mə p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓?
+dataset/BZNSYP/Wave/006242.wav|0|s`weɪ↑ts`⁼ɹ`→ xu↑moʊ↓↑ p⁼u↓tʃ⁼in↓↑ p⁼u↓ tʰiŋ→ tʃʰɥæn↓k⁼ɑʊ↓, fan↓↑əɹ`↑ lwən→ tʃʰi↓↑ tsʰaɪ↓t⁼ɑʊ→ kʰan↓↑ tʃʰi↓↑ lə u→neɪ↓ u↓pʰin↓↑.
+dataset/BZNSYP/Wave/008745.wav|0|ʃɥ↑ʃiɑʊ↓↑ʃja↑ ma↓↑s`ɑŋ↓ tʃ⁼iɑʊ↓ ɹ`ən↑ ts`⁼ɑʊ↓↑ ts`ʰə→p⁼a↓↑ lɑʊ↓↑ɹ`ən↑ sʊŋ↓t⁼ɑʊ↓ lə ʃiɑŋ→ts`⁼ən↓ weɪ↓s`əŋ→ɥæn↓.
+dataset/BZNSYP/Wave/007031.wav|0|iɛ↓ts`⁼u↓↑ uɑŋ↑ niŋ↑p⁼wo→, s`ɹ`↓ ts`ʰən→xwa↓ tʃ⁼i↑tʰwan↑ t⁼ɑŋ↓↑weɪ↓↑s`u→tʃ⁼i↓.
+dataset/BZNSYP/Wave/003194.wav|0|s`ɹ`↓weɪ→ swo↓↑ts⁼aɪ↓ t⁼ə k⁼uɑŋ↓↑ts`ʰɑŋ↓↑ neɪ↓ ɹ`ən↑man↓↑weɪ↑xwan↓.
+dataset/BZNSYP/Wave/002216.wav|0|in→tsʰɹ↓↑, ɹ`u↑k⁼wo↓↑“ i→t⁼ɑʊ→tʃʰiɛ→” t⁼i↓ an↓ pʰaɪ↑liɑŋ↓ ts`⁼əŋ→s`oʊ→, miŋ↑ʃjɛn↓↑ joʊ↓↑s`ɹ`→k⁼ʊŋ→ɥn↓↑.
+dataset/BZNSYP/Wave/005497.wav|0|xuɑŋ↑s`ɑŋ↓! nin↑ xaɪ↑ tʃ⁼i↓t⁼ə t⁼a↓miŋ↑ xu↑pʰan↓ t⁼ə ʃja↓ɥ↓↑xə↑ ma?
+dataset/BZNSYP/Wave/006270.wav|0|tʰʊŋ↑s`ɹ`↑, ts`⁼ə↓ iɛ↓↑ i↓weɪ↓ts`⁼ə p⁼i↓ʃɥ→ joʊ↓↑ ts⁼u↑k⁼oʊ↓ t⁼ə ɹ`ən↑tsʰaɪ↑ ts`ʰu↓↑p⁼eɪ↓.
+dataset/BZNSYP/Wave/007406.wav|0|tʃʰi↑s`ɹ`↑ t⁼ʊŋ↓↑moʊ↓↑ i↓ts`⁼ɹ`↑ ʃiɑŋ↓↑ tʰoʊ→liɑŋ↓ xɑʊ↓↑ts`ʰə→ ts`ʰəŋ→mən↑mjɛn↓, ts`⁼ɑʊ↓↑ nɥ↓↑pʰəŋ↑joʊ↓↑.
+dataset/BZNSYP/Wave/001243.wav|0|li↑kʰaɪ→ s`ɹ`↑, ts⁼ʊŋ↓↑xweɪ↓ lin→ tʃ⁼i↓↑t⁼aɪ↓ iɑŋ↓pʰin↓↑ xweɪ↑tʃʰɥ↓.
+dataset/BZNSYP/Wave/008816.wav|0|ts`⁼oʊ→ iɛ↓mjɛn↓ fɑŋ↓↑wən↓liɑŋ↓ weɪ↓ u↓↑t⁼jɛn↓↑ tʃ⁼joʊ↓↑liŋ↑ san→i↓, xwan↑p⁼i↓↑ ʃja↓xwa↑ p⁼aɪ↓↑fən→ts`⁼ɹ`→əɹ`↓t⁼jɛn↓↑ sɹ↓.
+dataset/BZNSYP/Wave/004523.wav|0|wo↓↑ t⁼ə s`əŋ→miŋ↓li↓ jʊŋ↓↑tʃ⁼joʊ↓↑ tsʰwən↑ts⁼aɪ↓.
+dataset/BZNSYP/Wave/002561.wav|0|t⁼ɑŋ→ɹ`ɹ`↓ ʃja↓u↓↑, liŋ↓ i→lɥ↑joʊ↓↑ joʊ↓ ts⁼aɪ↓ fu↓tʃ⁼in↓ t⁼ə ʃjɛn↓↑iɑʊ↓ tʃ⁼iŋ↓↑t⁼jɛn↓↑ s`oʊ↓s`ɑŋ→.
+dataset/BZNSYP/Wave/000360.wav|0|fəŋ↓tʃ⁼iɛ↓↑ p⁼ən↓↑miŋ↑ lwo↑ɥ↓fəŋ↓, ts`ʰʊŋ↑tʃʰiŋ↓ ɹ`ən↑.
+dataset/BZNSYP/Wave/003894.wav|0|wo↓tsʰɑʊ↑, ts`⁼ə↓ s`ɹ`↓ iɑʊ↓ ts`⁼əŋ↓↑sɹ↓↑ wo↓↑mən t⁼ə tʃ⁼iɛ↑ts⁼oʊ↓ a!
+dataset/BZNSYP/Wave/005314.wav|0|tʃʰi↑xaɪ↓↑ ɹ`ən↓weɪ↑, ɥ↓↑tʃʰi↑ iɑʊ↓↑wən↑tʃ⁼iɑʊ↑ts⁼ɹ↓ xaɪ↑ p⁼u↓ɹ`u↑ weɪ↓ nʊŋ↑min↑k⁼ʊŋ→ ts⁼wo↓ʃiɛ→ s`ɹ`↑s`ɹ`↓.
+dataset/BZNSYP/Wave/007466.wav|0|ts`⁼ɹ`→tsʰwo↓tʃ⁼joʊ↓k⁼aɪ↓↑, k⁼aɪ↓↑lə ts⁼aɪ↓fan↓, wo↓əɹ`↓↑ma↓↑ joʊ↓ i→tsʰɹ↓“ tʃʰiɑŋ→” t⁼ɑʊ↓ lə ts`ʰʊŋ↑tʃʰiŋ↓ k⁼ʊŋ→ts`⁼ʊŋ↓.
+dataset/BZNSYP/Wave/004183.wav|0|t⁼a↓tʃ⁼iɛ→ʃiɑʊ↓↑ʃiɑŋ↓ pʰiɑʊ→tʃʰi↓↑ xʊŋ↑ts`ʰoʊ↑ t⁼aɪ↓, tʃ⁼ja→tʃ⁼ja→ u→jɛn↑ʃja↓ k⁼wa↓ tʃʰi↓↑ i→ts`ʰwan↓ts`ʰwan↓ xʊŋ↑t⁼əŋ→lʊŋ↑.
+dataset/BZNSYP/Wave/003753.wav|0|tʃ⁼ɥ↓ʃi→, mwo↓əɹ`↓↑ ʃi→ts⁼aɪ↓ ts⁼ʊŋ↓↑tʰʊŋ↓↑fu↓↑ weɪ↓ tʰan↓↑tʰa↓↑ weɪ↑xə↑ a→nan↑ tʃ⁼ɥ↓↑ʃiŋ↑ s`oʊ↓ʃɥn→i↑s`ɹ`↓.
+dataset/BZNSYP/Wave/004623.wav|0|t⁼weɪ↓ tʰa→ laɪ↑s`wo→, tʰoʊ↑p⁼ən↓ iɑŋ↓↑lɑʊ↓↑ɥæn↓ k⁼əŋ↓ t⁼wo→ s`ɹ`↓ ts`ʰu→ɥ↑ tʃʰiŋ↑k⁼an↓↑ ʃɥ→tʃʰjoʊ↑.
+dataset/BZNSYP/Wave/001051.wav|0|p⁼iŋ↓ tʰan↓↑jɛn↑ s`əŋ→ɹ`ɹ`↓ ɥæn↓uɑŋ↓ s`ɹ`↓ ʃi→uɑŋ↓ ɑʊ↓mən↑ s`əŋ→i↓ xɑʊ↓↑.
+dataset/BZNSYP/Wave/007818.wav|0|tʃ⁼joʊ↓↑iɑŋ↑ s`ən↑k⁼ʊŋ→! i↓t⁼jɛn↓↑ p⁼u↑xweɪ↓!
+dataset/BZNSYP/Wave/009279.wav|0|tʃʰiŋ↓↑ ʃiɛ↓↑ʃja↓ nin↑ t⁼ə ʃiŋ↓miŋ↑, ʃiɑŋ↑ʃi↓ tʰʊŋ→ʃɥn↓t⁼i↓ts`⁼ɹ`↓↑, joʊ↑ts`⁼əŋ↓p⁼jɛn→ma↓↑.
+dataset/BZNSYP/Wave/003751.wav|0|tʃʰjɛn↑tʃ⁼i↓↑ɹ`ɹ`↓ t⁼ə mɑʊ↓ʃjɛn↓, wən↓ts`ʰwan→ t⁼əŋ↓↑ ts`⁼ən↓ts`⁼ʊŋ→ t⁼i↓tʃʰɥ→ tʃ⁼iɑŋ↓ɥ↓↑ tʃ⁼iɑʊ↓ t⁼wo→, ɥn↑tsʰəŋ↑ tʃ⁼iɑʊ↓xoʊ↓.
+dataset/BZNSYP/Wave/007319.wav|0|wo↓↑ meɪ↓↑tʰjɛn→ an↓s`ɹ`↑ tʃʰi↓↑ts`ʰuɑŋ↑.
+dataset/BZNSYP/Wave/005673.wav|0|k⁼ɑŋ→ kʰaɪ→s`ɹ`↓↑, xə↑t⁼a↓iɛ↑ xən↓↑ ts`⁼ɹ`↑njoʊ↓, ɹ`əŋ↑ p⁼a↓↑ li↑xwən→ k⁼wa↓ ts⁼aɪ↓ ts⁼weɪ↓↑p⁼jɛn→.
+dataset/BZNSYP/Wave/007535.wav|0|ts`⁼ɹ`→xoʊ↓ joʊ↓↑ p⁼ɑʊ↓t⁼ɑʊ↓ ts`ʰəŋ→, ts`⁼ə↓pʰjɛn→ p⁼wo↑wən↑ ts`ʰwən↑s`u↓↑niɛ→ts⁼ɑʊ↓, p⁼iŋ↓ meɪ↑joʊ↓↑ ʃja↓wən↑.
+dataset/BZNSYP/Wave/007528.wav|0|p⁼ɑʊ↓↑fəŋ→ʃjɛn↓ joʊ↓↑ ʃɥ↓↑t⁼wo→ ts`⁼ɹ`↓s`oʊ↓ ts`⁼ə↓leɪ↓ tʃ⁼ja↓↑ k⁼ɑʊ→iɑʊ↓ xə↑ fu↑pʰin↓↑ t⁼ə s`ɑŋ→t⁼jɛn↓, s`oʊ↓tʃ⁼ja↓ tʃ⁼i↑weɪ↑ t⁼i→ljɛn↑.
+dataset/BZNSYP/Wave/008474.wav|0|ts`⁼ɹ`↓ɥ↑ sɑŋ→li↓↑ tʃ⁼ɥ↓↑ʃiŋ↑ t⁼ə ʃi↓tʃ⁼iɛ↑, tʰa→ ts`⁼ɹ`↓↑iɑʊ↓ wən↓ ʃɥ↓↑k⁼wan→u↓↑, in→s`ɹ`↓ tʰa→ tʃʰɥæn↑li↓ t⁼a↓↑t⁼jɛn↓↑.
+dataset/BZNSYP/Wave/003428.wav|0|ʃjɛn↑ts`⁼əmeɪ↑s`ɹ`↓ maɪ↓↑ lə p⁼ən↓↑ ɥ↑tʃ⁼ja→ s`u→, ɹ`ɑŋ↓ nan↑joʊ↓↑ pʰeɪ↑ ts`⁼ə ljɛn↓.
+dataset/BZNSYP/Wave/005432.wav|0|t⁼a↓s`oʊ↓↑p⁼i↓↑ t⁼ə tʰoʊ↑ɹ`u↓ tʃ⁼iɛ↑ts`ʰu→ lə leɪ↓↑leɪ↓↑s`wo↓k⁼wo↓↑.
+dataset/BZNSYP/Wave/008683.wav|0|əɹ`↑s`ɹ`↓ ts`⁼ɑŋ→ts`⁼ɑʊ→iɑŋ↑ t⁼ə“ ts`ʰɹ`↓↑ɹ`u↓↑”.
